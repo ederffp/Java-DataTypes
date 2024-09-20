@@ -30,3 +30,7 @@ public class App {
 - Não se assuste, parece ser grande, mas a 2º coisa que observamos é que logo declaramos o metodo principal do nosso programa, o metodo <u><b>Main</b></u>
 - Depois veja que utilizamos <u><b>System.out.println()</b></u> isso nada mais é que estamos usando o recursos da classe <b>System</b> que tem como metodo <b>println()</b> que tem finalidade de imprimir na tela alguma coisa.
 - Logo abaixo nos deparamos conm nada mais nada menos que a declaração e inicialização de alguns tipos de variaveis <b>int</b>,<b>float</b>,<b>double</b>,<b>String</b>,<b>Char</b>.
+
+<h2> Conclusão: </h2>
+
+<p>Embora seja um programa simples escrito em java, podemos ver que há elementos fundamentais(importantes).
